@@ -3,6 +3,8 @@
 #Learning Activities & Resources
 
 This week I set up a website template based on HTML, CSS, and JavaScript and studied some of the LinkedIn Learning courses and some other online tutorials. I get much help from Bootstrap and W3Schools.
+https://www.w3schools.com/
+https://getbootstrap.com/
 
 #Estimated Hours
 
